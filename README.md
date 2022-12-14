@@ -1,1 +1,1 @@
-# landing-page-two
+# landing-page-mini-project

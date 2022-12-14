@@ -1,0 +1,40 @@
+
+
+* {
+font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+}
+
+header {
+    padding: 20px;
+    background-color: limegreen;
+    color: darkblue;
+    
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: darkblue;
+    background-color: limegreen;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 5px;
+    float: right;
+    font-size: 20px;
+    background-color: limegreen;
+}
+
+.main-picture img {
+    display: block;
+    margin: 5px auto;
+    max-width: 200px;
+
+}
+
+.main-picture h2 {
+text-align: center;
+
+}
